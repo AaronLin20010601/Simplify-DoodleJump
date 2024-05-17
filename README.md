@@ -1,6 +1,7 @@
 # Simplify-DoodleJump
 A simple version of doodle jump made with Unity2D engine
 --------------------------------------------------------
+![image](https://github.com/AaronLin20010601/Simplify-DoodleJump/blob/main/doodle_demo.PNG)  
 Platform types :  
 green -> normal platform that won't move or disappear  
 blue -> move horizontal in a certain distance  
