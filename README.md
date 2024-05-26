@@ -19,3 +19,6 @@ Monsters :
 touch all types of monsters will trigger game over excpet jump on them  
 camron monster -> move horizontal slowly  
 purple spider -> move horizontal with normal speed  
+  
+Notification :  
+Using TextMeshPro
