@@ -2,6 +2,7 @@
 A simple version of doodle jump made with Unity2D engine
 --------------------------------------------------------
 Demo video google drive link : <https://drive.google.com/file/d/19VEuUYGyqrUvyYJSzFKxOZTax9BHqfQr/view?usp=drive_link>  
+  
 Platform types :  
 green -> normal platform that won't move or disappear  
 blue -> move horizontal in a certain distance  
